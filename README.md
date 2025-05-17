@@ -1,4 +1,4 @@
-# Inventory Management 
+# INVENTORY-MANGEMENT-GUI-JAVA
 
 A Java Swing desktop application to view and interact with inventory and supplier data stored in a relational database. The application allows users to:
 
@@ -64,5 +64,3 @@ CREATE TABLE Supplier (
 * The collection selector allows you to experiment with different Java collection implementations and observe their effects on data display and sorting.
 * This is a learning/demo project aimed at demonstrating JDBC integration, Swing GUI programming, and collection handling.
 
-
-# INVENTORY-MANGEMENT-GUI-JAVA
